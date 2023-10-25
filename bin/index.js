@@ -1,1 +1,0 @@
-import { evenOrOdd } from "../src/functions.js";
