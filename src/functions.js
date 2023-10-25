@@ -8,11 +8,3 @@ const evenOrOdd = (value) => {
 }
 console.log(evenOrOdd(1));
 console.log(evenOrOdd(2));
-
-
-
-
-
-
-
-export {evenOrOdd};
